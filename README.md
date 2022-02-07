@@ -3,6 +3,8 @@
 > This voice assistant is buit in VS Code. It has an ability to understand human speech, process it and provide relevant, requested output to the user. 
 When the user speaks out any appropriate trigger words, the virtual assistant gets activated to serve the user's command.
 
+![bot](https://user-images.githubusercontent.com/78873223/152768592-825f945e-86b4-4f51-b9e5-cd4d254003f6.png)
+
 ## This Virtual Assistant currently performs the following:
 
 1. Greets user with appropriate greetings after analyzing what time of the day it is. Also, introduces itself when user asks it to do so.

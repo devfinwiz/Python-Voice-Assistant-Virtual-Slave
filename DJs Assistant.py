@@ -172,9 +172,9 @@ if __name__=='__main__':
             speak(pyjokes.get_joke())
 
         
-        '''elif 'who are you' or 'introduce' in query:
+        elif 'who are you' or 'introduce' in query:
             speak("I am DevFinwiz's Assistant")
-            print("I am DevFinwiz's Assistant")'''
+            print("I am DevFinwiz's Assistant")
 
         
 
